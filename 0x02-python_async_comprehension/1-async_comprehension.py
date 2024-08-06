@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-'''A module for task 1 that is a write a coroutine called async_comprehension 
-that takes no arguments.'''
+"""A module for task 1 that is a write a coroutine called async_comprehension 
+that takes no arguments."""
 from typing import List
 from importlib import import_module as using
 
